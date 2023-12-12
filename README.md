@@ -1,11 +1,5 @@
 ## Customer Churn Prediction 
 
-> #### Done ✅-> EDA✅ , Data Validation✅ , Model Training✅(ML Algorithms✅, Neural Netwrok✅), Mlflow Tracking✅
-
-### Demo
-
-https://github.com/GyanPrakashkushwaha/Customer-Churn-Prediction/assets/127115588/7c724e7c-72ce-442d-b63f-8872ba54e2f2
-
 
 ## Data Insights:
 - #### Numerical Data Points are equally distributed.
